@@ -3,8 +3,8 @@ Contributors: weblizar
 Donate link: https://www.weblizar.com/
 Tags: facebook, facebook feed, facebook like box, facebook posts, facebook page, FaceBook posts, facebook widget, FaceBook profile, FaceBook group, facebook page feed, facebook page like box, feed, likebox
 Requires at least: 7.4
-Tested up to: 6.6.2
-Stable tag: 3.1.6
+Tested up to: 6.8
+Stable tag: 3.1.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -215,6 +215,9 @@ Go to admin dashboard => appearance => widgets => Here are available our two fac
 For more information, see [Weblizar](https://weblizar.com/) .
 
 == Changelog ==
+
+= 3.1.7 = [17-05-2025]
+ * Tested upto wordpress 6.8
 
 = 3.1.6 = [15-10-2024]
  * Tested upto wordpress 6.6.2

@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Social LikeBox & Feed
- * Version: 3.1.6
+ * Version: 3.1.7
  * Description: Display the Facebook Feed and Like box on your website. Its completely customizable, responsive and search engine optimization feeds  and like-box contents.
  * Author: Weblizar
  * Author URI: https://www.weblizar.com
