@@ -1,10 +1,10 @@
 === Social LikeBox & Feed ===
 Contributors: weblizar
 Donate link: https://www.weblizar.com/
-Tags: facebook, facebook feed, facebook like box, facebook posts, facebook page, FaceBook posts, facebook widget, FaceBook profile, FaceBook group, facebook page feed, facebook page like box, feed, likebox
+Tags: Recent Posts, Related Posts, Post Slider, Post Widget, Responsive Slider
 Requires at least: 7.4
-Tested up to: 6.8.1
-Stable tag: 3.1.8
+Tested up to: 6.9
+Stable tag: 3.1.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -215,6 +215,10 @@ Go to admin dashboard => appearance => widgets => Here are available our two fac
 For more information, see [Weblizar](https://weblizar.com/) .
 
 == Changelog ==
+= 3.1.9 = [11-12-2025]
+ * Tested upto wordpress 6.9
+ * Tested upto php 8.4
+
 = 3.1.8 = [12-07-2025]
  * Tested upto wordpress 6.8.1
 
@@ -225,7 +229,7 @@ For more information, see [Weblizar](https://weblizar.com/) .
  * Tested upto wordpress 6.6.2
  * Tested upto php 8.3.12
  
- = 3.1.5 = [21-03-2024]
+= 3.1.5 = [21-03-2024]
  * Tested upto wordpress 6.5
  * Tested upto php 8.3.3
 
