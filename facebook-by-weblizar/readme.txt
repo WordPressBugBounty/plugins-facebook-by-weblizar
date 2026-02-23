@@ -3,8 +3,8 @@ Contributors: weblizar
 Donate link: https://www.weblizar.com/
 Tags: Recent Posts, Related Posts, Post Slider, Post Widget, Responsive Slider
 Requires at least: 7.4
-Tested up to: 6.9
-Stable tag: 3.1.9
+Tested up to: 6.9.1
+Stable tag: 3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -215,6 +215,10 @@ Go to admin dashboard => appearance => widgets => Here are available our two fac
 For more information, see [Weblizar](https://weblizar.com/) .
 
 == Changelog ==
+= 3.2.0 = [23-02-2026]
+ * Tested upto wordpress 6.9.1
+ * Tested upto php 8.5.1
+
 = 3.1.9 = [11-12-2025]
  * Tested upto wordpress 6.9
  * Tested upto php 8.4
