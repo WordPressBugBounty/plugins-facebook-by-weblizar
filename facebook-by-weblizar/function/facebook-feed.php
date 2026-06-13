@@ -10,7 +10,7 @@ if (isset($_POST['security'])) {
 					'ffp_timeline_layout' => sanitize_text_field($_REQUEST['ffp_timeline_layout']),
 					'feed_customs_css' => sanitize_text_field($_REQUEST['feed_customs_css']),
 					'ffp_hover_color' => sanitize_text_field($_REQUEST['ffp_hover_color']),
-					'ffp_header_check' => sanitize_text_field($_REQUEST['ffp_header_check']),
+					'ffp_header_check' => isset($_REQUEST['ffp_header_check']) ? sanitize_text_field($_REQUEST['ffp_header_check']) : 'no',
 					'ffp_page_url' => sanitize_text_field($_REQUEST['ffp_page_identifier']),
 					'ffp_page_id' => sanitize_text_field($_REQUEST['ffp_page_id']),
 				)
