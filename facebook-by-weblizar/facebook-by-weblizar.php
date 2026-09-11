@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Social LikeBox & Feed
- * Version: 3.2.1
+ * Version: 3.2.2
  * Description: Display the Facebook Feed and Like box on your website. Its completely customizable, responsive and search engine optimization feeds  and like-box contents.
  * Author: Weblizar
  * Author URI: https://www.weblizar.com
@@ -69,10 +69,8 @@ add_action('wp_enqueue_scripts', 'weblizar_feed_code_script');
 /*Plugin Setting Link*/
 function weblizar_plugin_add_settings_link($links)
 {
-    // $fbw_pro_link = '<a href="https://weblizar.com/plugins/facebook-feed-pro/" target="_blank">Get Premium</a>';
     $settings_link = '<a href="admin.php?page=facebooky-by-weblizar">' . esc_html__('Settings', WEBLIZAR_FACEBOOK_PLUGIN_URL) . '</a>';
     array_unshift($links, $settings_link);
-    // array_unshift($links, $fbw_pro_link);
     return $links;
 }
 $plugin_fbw = plugin_basename(__FILE__);
